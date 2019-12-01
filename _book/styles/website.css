@@ -1,0 +1,41 @@
+input[type=checkbox]{
+    margin-left: -2em;
+}
+h1[id*=toc-head]:before, h2[id*=toc-head]:before, h3[id*=toc-head]:before, h4[id*=toc-head]:before, h5[id*=toc-head]:before, h6[id*=toc-head]:before {
+    display: block;
+    content: " ";
+    height: 80px;
+    margin-top: -80px;
+    visibility: hidden;
+}
+.serif .entry-content h2:after {
+    content: "/0B6";
+    position: absolute;
+    color: #ff6d6d;
+    font-family: 'Merriweather Sans',Helvetica,Tahoma,Arial,'PingFang SC','Hiragino Sans GB','Microsoft Yahei','WenQuanYi Micro Hei',sans-serif;
+    padding-left: 6px;
+    font-size: 1.13em;
+}
+.entry-content h2:after {
+    content: "/0B6";
+    position: absolute;
+    color: #ff6d6d;
+    font-family: 'Merriweather Sans',Helvetica,Tahoma,Arial,'PingFang SC','Hiragino Sans GB','Microsoft Yahei','WenQuanYi Micro Hei',sans-serif;
+    padding-left: 6px;
+    font-size: 1.03em;
+}
+.entry-content h3:after {
+    content: "#";
+    left: 0;
+    position: absolute;
+    color: #ff6d6d;
+}
+*:before, *:after {
+    box-sizing: inherit;
+}
+.entry-content h4::after {
+    content: "▌";
+    left: 0px;
+    position: absolute;
+    color: rgb(255, 109, 109);
+}
