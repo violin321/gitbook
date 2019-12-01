@@ -6,6 +6,7 @@
     "root": ".",
 
     "plugins": [
+        "edit-link",
         "back-to-top-button",
          "advanced-emoji",
          "todo",
@@ -18,13 +19,15 @@
       "search-plus",
       "code",
       "mygitalk",
-      "anchor-navigation-ex",
-     
+      "anchor-navigation-ex",     
        "pageview-count"
     ],
 
     "pluginsConfig": {
-         
+         "edit-link": {
+          "base": "https://github.com/violin321/gitbook/edit/master",
+          "label": "编辑本页"
+        },
         "mygitalk": {
         "clientID": "52d0d7925c9ac196d33d",
         "clientSecret": "5379c2c6e99247a52d1e3315ff76af7db5807849",
