@@ -107,10 +107,15 @@
 #####1.下载[DiskGenius](http://www.diskgenius.cn/)
 #####2.EFI分区
 打开DiskGenius，挂载EFI分区
+
 ![avatar](http://violin.site/gitbook/image/h1.png)
+
 双击左侧目录`ESP`进入
+
 ![avatar](http://violin.site/gitbook/image/h2.png)
+
 观察右侧是否有EFI分区，然后复制或者合并上文下载的`y7000pEFI`( :bangbang: 若有请不要直接替换，详情查看下方 :bangbang: )
+
 ![avatar](http://violin.site/gitbook/image/h3.png)
 > 合并EFI分区
 这里有一点需要注意:如果之前安装过Windows系统的话,会存在EFI的目录,只是EFI的目录下面只有BOOT和Microsoft这两个目录,如果希望添加macOS的Clover引导的话,可以将USB的EFI分区里面的EFI目录下面的CLOVER复制到磁盘里的EFI目录下,也就是执行的是合并 的操作,让EFI同时支持WINDOWS和macOS的引导.** :bangbang: 千万不要全部复制,否则有可能造成EFI无法启动Windows.**
@@ -118,10 +123,10 @@
 > 复制EFI分区(一般不为空，若已经合并了EFI请跳过此步)
 如果磁盘上的EFI分区里为空的,可以直接将USB的EFI分区下面的EFI目录直接复制到磁盘上的EFI分区里.
 
-~~####[macOS]~~(待完善)
+####~~[macOS]~~(待完善)
 
 ###2.优化命令
 进入终端输入
 `sudo sh -c "$(curl -fsSL https://gitee.com/xiaoMGit/Y7000Series_Hackintosh_Fix`
-~~##七、写在后面]~~(待完善)
+##~~七、写在后面]~~(待完善)
 ***#未完待续（2019.12.2）***
