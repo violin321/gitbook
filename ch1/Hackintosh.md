@@ -59,7 +59,7 @@
 - 禁用安全启动。
 - SATA模式设置为AHCI。
 
-##五、安装系统 :bangbang: :bangbang: :bangbang:
+##五、安装系统 :bangbang: :bangbang: :bangbang:（部分图片待完善）
 ### :one: 开机，按`F12`选择U盘引导
 
 ####1.进入CLOVER主界面，直接回车，开始引导macOS
