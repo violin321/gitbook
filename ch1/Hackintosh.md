@@ -128,5 +128,5 @@
 ###2.优化命令
 进入终端输入
 `sudo sh -c "$(curl -fsSL https://gitee.com/xiaoMGit/Y7000Series_Hackintosh_Fix`
-##~~七、写在后面]~~(待完善)
+##~~七、写在后面~~(待完善)
 ***#未完待续（2019.12.2）***
