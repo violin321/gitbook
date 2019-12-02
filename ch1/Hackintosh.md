@@ -111,7 +111,7 @@
 >[y7000pEFI下载](https://violin.site/gitbook/ch1/Hackintosh_EFI_2.0.3.zip)
 （本EFI支持以下机型：
 2018款 Y7000/Y7000P 以及国际版 Y530 全系列机型；
-2019款 Y7000/Y7000P 以及国际版 Y540 全系列机型）
+2019款 Y7000/Y7000P 以及国际版 Y540 全系列机型 :heavy_exclamation_mark: 注意阅读说明文档）
 
 ####[WIN]
 #####1.下载[DiskGenius](http://www.diskgenius.cn/)
