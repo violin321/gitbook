@@ -87,13 +87,23 @@
 
 ### :three: 安装
 ####1.选择`MAC`磁盘（或者上文输入的你想要的名称），点击继续
+
+![avatar](http://7.daliansky.net/Air13/18.png)
+
 ####2.等待第一次安装，程序会将USB安装盘内的安装文件欲复制到需要安装的磁盘内
+
+![avatar](http://7.daliansky.net/Air13/21.png)
+
 ####3.重启后继续安装，电脑会重启两到三遍
 > ** :bangbang: 系统重启后，CLOVER引导界面会多出几个卷标，请选择`Boot macOS Install form MAC`卷标继续安装** *【如果使用安装镜像自带的默认主题，请选择卷标右下角包含 `APFS` 字样的卷标，其中的MAC是你在执行抹盘过程中定义的名称】* 
 **在系统安装过程中，请总是选择`Boot macOS Install form MAC`卷标继续安装，安装完成后，卷标名称将变更为：`Boot macOS form MAC`**
 
+![avatar](http://7.daliansky.net/ParallelsPicture17.png)
 
 ### :four: 设置向导
+
+![avatar](http://7.daliansky.net/Air13/22.png)
+
 根据自己的喜好设置
 
 ##六、安装后的系统设置
