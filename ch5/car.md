@@ -42,11 +42,11 @@ SUV是指运动型实用汽车，不同于可在崎岖地面使用的ORV越野�
 - 41.28-59.18万元
 - 中大型suv
 
-![avatar](https://www2.autoimg.cn/cardfs/product/g20/M0D/81/DA/744x0_1_autohomecar__wKjBw1kcNvmAfO7iAASK8rsnuJc210.jpg）
+![avatar](https://www2.autoimg.cn/cardfs/product/g20/M0D/81/DA/744x0_1_autohomecar__wKjBw1kcNvmAfO7iAASK8rsnuJc210.jpg)
 
-![avatar](https://www3.autoimg.cn/newsdfs/g15/M08/A6/5A/620x0_0_autohomecar__wKjByFkcCwuATcQmAAMreMkAG3c655.jpg）
+![avatar](https://www3.autoimg.cn/newsdfs/g15/M08/A6/5A/620x0_0_autohomecar__wKjByFkcCwuATcQmAAMreMkAG3c655.jpg)
 
-![avatar](https://www2.autoimg.cn/newsdfs/g15/M08/A4/5D/620x0_0_autohomecar__wKgH1lkcCwuAKTtOAADVVdP-kW0978.jpg）
+![avatar](https://www2.autoimg.cn/newsdfs/g15/M08/A4/5D/620x0_0_autohomecar__wKgH1lkcCwuAKTtOAADVVdP-kW0978.jpg)
 
 >因为途昂和探险者都差不多，所以将两辆车放在一起讲。第一个感觉就是两辆车都特别的大。这种大不是一般的那种大，两辆车在打起第三排之后后面还有一定的行李空间，这一点做得比霸道要好很多。但是毕竟还是suv，跟mpv商务车还是有差距，个人始终觉得对于第三排乘客不太友好。两款车的越野性能受限于“大”，越野性能并不突出。2020款的探险者外观很出彩很两眼，内饰做得也很好，虽然中控有点突兀，但是科技感十足。若是在两款之间选择一款我会选2020的探险者。2020探险者国内正式上市的时间仍然有待确定（可选平行进口？？）
 
